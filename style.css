@@ -1,0 +1,30 @@
+p{
+    color: #050003;
+}
+h3{
+    color:#000080;
+}
+*{
+    background-color: #ffffff;
+}
+.images{
+    display:flex;
+    flex-direction:row;
+justify-content: space-between;
+
+}
+img {
+    border: #c5008a 10px  solid;
+    border-radius: 20px;
+}
+p{
+    margin-left: 50px;
+    padding: 30px;
+    font-family: cursive;
+}
+h3{
+    margin-left: 60px;
+    padding: 30px;
+    font-family: fantasy;
+}
+
